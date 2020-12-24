@@ -1,8 +1,8 @@
 import {React, Component} from 'react';
 
-import MenuItem from '../Components/Menu';
+import MenuItem from '../Menus/Menu';
 
-import '../styles/Directory.scss';
+import '../Directory/Directory.scss';
 
 class Directory extends Component {
   constructor() {
